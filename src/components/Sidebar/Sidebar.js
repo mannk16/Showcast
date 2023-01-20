@@ -48,7 +48,7 @@ export const Sidebar = ({ setMobileOpen }) => {
       <LinkContainer onClick={() => navigate("/")}>
         <ImageContainer
           src={theme.palette.mode === "light" ? image1 : image2}
-          alt="filmverse logo"
+          alt="showcast logo"
         />
       </LinkContainer>
       <StyledDivider />
