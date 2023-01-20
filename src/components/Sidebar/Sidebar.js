@@ -23,8 +23,8 @@ import {
 
 import { useGetGenresQuery } from "../../Services/TMDB";
 
-import image1 from "../../Filmverse/1.jpeg";
-import image2 from "../../Filmverse/2.jpeg";
+import image1 from "../../Showcast/1.jpeg";
+import image2 from "../../Showcast/2.jpeg";
 
 import { genres } from "../../assets-genres";
 
